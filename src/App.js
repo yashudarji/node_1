@@ -6,10 +6,8 @@ function App() {
   return (
     <div>
 
-    <ChakraProvider>
 
       <h1>Hello</h1>
-    </ChakraProvider>
     </div>
   );
 }
